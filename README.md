@@ -20,7 +20,10 @@ The system uses **classical computer vision techniques** (color segmentation and
 ## Tech Stack
 - Python  
 - OpenCV  
-- NumPy  
+- NumPy
+
+## Demo 
+<!-- Uploading "demo.mp4"... -->
 
 ## Run
 ```bash
