@@ -23,7 +23,7 @@ The system uses **classical computer vision techniques** (color segmentation and
 - NumPy
 
 ## Demo 
-<!-- Uploading "demo.mp4"... -->
+https://github.com/user-attachments/assets/5216bf64-34fb-4a0e-a06f-ba396b16344e
 
 ## Run
 ```bash
